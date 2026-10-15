@@ -1,0 +1,10 @@
+com\example\stadiumgacha\collection\CollectionRepository.class
+com\example\stadiumgacha\DataInitializer.class
+com\example\stadiumgacha\gacha\GachaService.class
+com\example\stadiumgacha\stadium\StadiumRepository.class
+com\example\stadiumgacha\api\GachaController.class
+com\example\stadiumgacha\StadiumGachaApplication.class
+com\example\stadiumgacha\collection\CollectionService.class
+com\example\stadiumgacha\collection\CollectionController.class
+com\example\stadiumgacha\collection\Collection.class
+com\example\stadiumgacha\stadium\Stadium.class
